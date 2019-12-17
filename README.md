@@ -1,30 +1,36 @@
 # Java_Snippets
 
-### basic structure:
-    file extention:
-      .java
+### basic structure
+
+file extention:
+
+    .java
       
-     basic class structure:
+basic class structure:
      
-         public class ClassName {
-           // method
-         }
+     public class ClassName {
+       // method
+     }
        
-    basic method structure(main):
+basic method structure(main):
     
         public static void method(String[] args){
           // instructions
         }
         
-    commenting code: 
-        single line:
-            //
-        several lines:
-            /*
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-           dolore magna aliqua. Venenatis tellus in metus vulputate eu scelerisque felis. Nam libero justo laoreet 
-           sit amet. Sit amet consectetur adipiscing elit. Nisl rhoncus mattis rhoncus urna neque viverra justo nec.
-           */
+#### commenting code: 
+
+  single line:
+  
+      //
+      
+  several lines:
+  
+        /*
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+       dolore magna aliqua. Venenatis tellus in metus vulputate eu scelerisque felis. Nam libero justo laoreet 
+       sit amet. Sit amet consectetur adipiscing elit. Nisl rhoncus mattis rhoncus urna neque viverra justo nec.
+       */
            
 #### example:
 
@@ -35,11 +41,12 @@
     }
    
 ### Running a program
-    Compiling(Produces a .class file):
-    
-        $ javac FileName.java
+
+Compiling(Produces a .class file):
+
+    $ javac FileName.java
         
-    Executing: 
-    
-        $ java FileName
+Executing: 
+
+    $ java FileName
   
